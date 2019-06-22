@@ -25,3 +25,9 @@
 4. Then this: *"javac Main.java"*
 5. Then run it: *"java Main"*
 6. Well done! The program is running.
+
+### Scope of program
+* Firstly, I found a service with news *to classify*(it's already included into the program)
+   * You can get aquainted with them here: [Data to Classify](http://qwone.com/~jason/20Newsgroups/)
+* The data was divided in **TRAINING** and **TESTING** data
+>![Fetched data](https://raw.githubusercontent.com/yaroslavoliinyk/News_Classification/master/pics/1.png)
