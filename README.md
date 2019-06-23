@@ -23,8 +23,8 @@
 2. Unzip the repository in "*Downloads*" folder
 3. You'll have the following package: News_Classification-master
 4. Enter this package: "*cd ~/Downloads/News_Classification-master/*"
-5. Run the next command to extract the program: "*tar -xJf News_Classification.tar.xz*"
-6. Use the following command: *"cd ~/Downloads/News_Classification-master/News_Classification/program/src"*
+5. Run the next command to extract the program: "*tar -xJf program.tar.xz*"
+6. Use the following command: *"cd ~/Downloads/News_Classification-master/program/src"*
 7. Then this: *"javac Main.java"*
 8. Then run it: *"java Main"*
 9. Well done! The program is running.
