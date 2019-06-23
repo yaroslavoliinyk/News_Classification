@@ -20,11 +20,14 @@
     
 ### Launching the program
 1. Download the repository
-2. Extract the program in "Downloads" folder
-3. Use the following command: *"cd ~/Downloads/News_Classification/program/src"*
-4. Then this: *"javac Main.java"*
-5. Then run it: *"java Main"*
-6. Well done! The program is running.
+2. Unzip the repository in "*Downloads*" folder
+3. You'll have the following package: News_Classification-master
+4. Enter this package: "*cd ~/Downloads/News_Classification-master/*"
+5. Run the next command to extract the program: "*tar -xJf News_Classification.tar.xz*"
+6. Use the following command: *"cd ~/Downloads/News_Classification/program/src"*
+7. Then this: *"javac Main.java"*
+8. Then run it: *"java Main"*
+9. Well done! The program is running.
 
 ### Scope of program
 * Firstly, I found a service with news *to classify*(it's already included into the program)
